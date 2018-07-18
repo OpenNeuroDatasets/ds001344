@@ -1,0 +1,15 @@
+{
+	"Manufacturer": "Siemens",
+	"ManufacturersModelName": "TrioTim",
+	"ProcedureStepDescription": "CIC-Physics_func_battery_Jess",
+	"ProtocolName": "MPRAGE_ADNI_P2",
+	"ImageType": ["ORIGINAL", "PRIMARY", "M", "NORM", "DIS2D"],
+	"AcquisitionDateTime": "2017-03-29T13:19:33.421875",
+	"MagneticFieldStrength": 3,
+	"FlipAngle": 9,
+	"EchoTime": 0.00298,
+	"RepetitionTime": 2.3,
+	"PhaseEncodingDirection": "i-",
+	"ConversionSoftware": "dcm2niix",
+	"ConversionSoftwareVersion": "v1.0.20170207"
+}

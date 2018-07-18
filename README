@@ -1,0 +1,20 @@
+
+April 2018, Jessica-Lily Harvey, Lysia Demetriou, John McGonigle, Matthew B. Wall
+**********************************************************************
+
+This is data from an fMRI experiment which tests a number of basic sensory and cognitive functions.
+
+Full details of the task and methods can be found in our pre-print on BiorXiv.org; https://www.biorxiv.org/content/early/2017/12/14/233783
+
+There are two variants of the experiment. Both contain visual, auditory, and motor trials but one version also includes eye-movement trials, and another includes working-memory trials. They are labelled 'eye-movement' and 'working_memory' accordingly.
+
+Two identical scanning sessions were conducted on each of 15 subjects. This enabled calculation of reliability statistics (ICC) as well as standard activation analyses.
+
+Unthresholded activation maps and ICC maps are available here: https://neurovault.org/collections/3264/
+
+Stimulus code for the tasks was written in PsychoPy and is also available here: https://figshare.com/articles/fMRI_control_task_zip/5162065 (DOI:
+384 10.6084/m9.figshare.5162065).
+
+Any questions or difficulties, please email Matt Wall: mbwall@gmail.com
+
+**********************************************************************
